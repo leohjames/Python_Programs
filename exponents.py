@@ -1,3 +1,4 @@
+# This program takes in a list of bases and powers, and raises each base to each power, creating a list of every possible combination
 def exponents(bases, powers):
   bases_raised = []
   i = 0
