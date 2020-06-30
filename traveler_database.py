@@ -1,3 +1,4 @@
+# This program acts as a tourism recommendation engine, which takes in a tourists information such as their destination and interests and provides them with a list of tourist attractions based off of their interests
 import sys
 destinations = ["Paris, France", "Shanghai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cairo, Egypt"]
 attractions= [[], [], [], [], []]
