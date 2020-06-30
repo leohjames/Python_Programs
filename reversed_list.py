@@ -1,3 +1,4 @@
+# This program takes in 2 lists and compares them to see if the other list is equal to the first list reveresed
 def reversed_list(lst1, lst2):
   i = 0
   t_o_f = True
