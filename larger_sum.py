@@ -1,3 +1,4 @@
+# This program takes in 2 lists of numbers and returns the list which has a higher total sum value
 def larger_sum(lst1, lst2):
   num = 0
   var = 0
